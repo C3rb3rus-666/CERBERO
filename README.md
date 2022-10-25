@@ -1,5 +1,6 @@
 # UNKBOT
-Bot para whatsapp multifuncional programado en javascript aun en fase beta fase beta 
+Bot para whatsapp multifuncional programado en javascript aun en fase beta 
+Proyecto privado para los grupos en alianza conmigo
 
 
 ## Características del bot 
