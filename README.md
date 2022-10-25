@@ -37,6 +37,8 @@ bot con interprete de ordenes para administracion remota del servidor
 
 # 𝐜𝐨𝐝𝐞𝐝 𝐛𝐲 𝐜𝟑𝐫𝐛𝟑𝐫𝐮𝐬-𝟔𝟔𝟔 𝐜𝐚𝐫𝐥𝐨𝐬 𝐬𝐚𝐧𝐜𝐡𝐞𝐳
  desarrollo proyectos en solitario para distintos grupos no son publicos todos son privados
+ si ya eres usuario regalame una estrella si te ha gustado;)
+ 
  ![c.JPG](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c.JPG)
  
 #  𝐔𝐍𝐊-𝐁𝐎𝐓
