@@ -1,5 +1,5 @@
 # UNKBOT
-Bot para whatsapp multifuncional programado en javascript aun en fase beta 
+Bot para whatsapp compatible con multidevice sin conexion
 Proyecto privado para los grupos en alianza conmigo
 
 
@@ -32,9 +32,15 @@ Proyecto privado para los grupos en alianza conmigo
 # Contacto
     𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : https://t.me/C3rb3rus_666
     𝐩𝐫𝐨𝐭𝐨𝐧𝐦𝐚𝐢𝐥 : c3rb3rus_666@pm.me
+    𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 : +573186451184
 
 # 𝐜𝐨𝐝𝐞𝐝 𝐛𝐲 𝐜𝟑𝐫𝐛𝟑𝐫𝐮𝐬-𝟔𝟔𝟔 𝐜𝐚𝐫𝐥𝐨𝐬 𝐬𝐚𝐧𝐜𝐡𝐞𝐳
+ desarrollo proyectos en solitario para distintos grupos no son publicos todos son privados
+ ![c.JPG](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c.JPG)
  
-
-
+#  𝐔𝐍𝐊-𝐁𝐎𝐓
+ ![c1.jpeg](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c1.jpeg)
+ ![c2.jpeg](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c2.jpeg)
+ ![c3.jpeg](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c3.jpeg)
+ ![c4.jpeg](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c4.jpeg)
 
