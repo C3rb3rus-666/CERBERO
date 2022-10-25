@@ -1,6 +1,7 @@
 # UNKBOT
 Bot para whatsapp compatible con multidevice sin conexion
 Proyecto privado para los grupos en alianza conmigo
+bot con interprete de ordenes para administracion remota del servidor
 
 
 ## Características del bot 
