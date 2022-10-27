@@ -13,7 +13,7 @@ bot con interprete de ordenes para administracion remota del servidor
 | Anti-Link|✔️|
 | Anti-Trabas |✔️|
 | Juegos|✔️|
-| Descarga de música/videos|c|
+| Descarga de música/videos|✔️|
 | Botones interactivos|✔️|
 | multidispositivo|✔️|
 | interprete de ordenes  remoto [LINUX] |✔️|
