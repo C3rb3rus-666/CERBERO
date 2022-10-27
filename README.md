@@ -10,10 +10,10 @@ bot con interprete de ordenes para administracion remota del servidor
 | stickers|✔️|
 | Bienvenida automatica con mensaje|✔️|
 | Bienvenida automatica con sticker |✔️|
-| Anti-Link|♻️|
-| Anti-Trabas |♻️|
+| Anti-Link|✔️|
+| Anti-Trabas |✔️|
 | Juegos|✔️|
-| Descarga de música/videos|✔️|
+| Descarga de música/videos|c|
 | Botones interactivos|✔️|
 | multidispositivo|✔️|
 | interprete de ordenes  remoto [LINUX] |✔️|
@@ -27,6 +27,7 @@ bot con interprete de ordenes para administracion remota del servidor
 | wikipedia |✔️|
 | buscar letras de las canciones |✔️|
 | manejo interactivo de memoria |✔️|
+| charla con la IA  |✔️|
 | y mucho mas :) |
 
 
