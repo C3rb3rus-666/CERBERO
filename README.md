@@ -22,7 +22,6 @@ bot con interprete de ordenes para administracion remota del servidor
 | agregar a grupos con una orden |✔️|
 | reproductor de musica |✔️|
 | multidispositivo whatsapp |✔️|
-| auto-fix de errores |✔️|
 | google |✔️|
 | wikipedia |✔️|
 | buscar letras de las canciones |✔️|
