@@ -45,7 +45,7 @@ bot con interprete de ordenes para administracion remota del servidor
  ![c1.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c1.jpg)
  ![c2.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c2.jpg)
  ![c3.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c3.jpg)
- ![c4.jpeg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c4.jpeg)
+ ![c4.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c4.jpg)
  ![c5.jpeg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c5.jpeg)
  ![c6.jpeg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c6.jpeg)
  ![c7.jpeg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c7.jpeg)
