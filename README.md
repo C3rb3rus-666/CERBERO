@@ -43,7 +43,7 @@ bot con interprete de ordenes para administracion remota del servidor
  
 #  𝐔𝐍𝐊-𝐁𝐎𝐓
  ![c1.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c1.jpg)
- ![c2.jpg](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c2.jpg)
+ ![c2.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c2.jpg)
  ![c3.jpg](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c3.jpg)
  ![c4.jpeg](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c4.jpeg)
  ![c5.jpeg](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c5.jpeg)
