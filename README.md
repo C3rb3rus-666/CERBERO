@@ -1,6 +1,6 @@
-# UNKBOT
+# 𝐂𝐄𝐑𝐁𝐄𝐑𝐎
 Bot para whatsapp compatible con multidevice sin conexion
-Proyecto privado para los grupos en alianza conmigo
+Proyecto privado 
 bot con interprete de ordenes para administracion remota del servidor
 
 
@@ -9,11 +9,10 @@ bot con interprete de ordenes para administracion remota del servidor
 | :---------------------------------------------: | :-----------: |
 | stickers|✔️|
 | Bienvenida automatica con mensaje|✔️|
-| Bienvenida automatica con sticker |✔️|
 | Anti-Link|✔️|
 | Anti-Trabas |✔️|
 | Juegos|✔️|
-| Descarga de música/videos|✔️|
+| Descarga de música|✔️|
 | Botones interactivos|✔️|
 | multidispositivo|✔️|
 | interprete de ordenes  remoto [LINUX] |✔️|
@@ -27,6 +26,9 @@ bot con interprete de ordenes para administracion remota del servidor
 | buscar letras de las canciones |✔️|
 | manejo interactivo de memoria |✔️|
 | charla con la IA  |✔️|
+| debate sobre programacion con la IA |✔️|
+| pregunta sobre problemas de programacion a la IA | ✔️ |
+| auto correccion de errores y basura del servidor | ✔️ |
 | y mucho mas :) |
 
 
@@ -41,7 +43,7 @@ bot con interprete de ordenes para administracion remota del servidor
  
  ![c.JPG](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c.JPG)
  
-#  𝐔𝐍𝐊-𝐁𝐎𝐓
+#  𝐂𝐄𝐑𝐁𝐄𝐑𝐎
  ![c1.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c1.jpg)
  ![c2.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c2.jpg)
  ![c3.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c3.jpg)
