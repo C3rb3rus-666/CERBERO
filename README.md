@@ -35,7 +35,6 @@ bot con interprete de ordenes para administracion remota del servidor
 # Contacto
     𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : https://t.me/C3rb3rus_666
     𝐩𝐫𝐨𝐭𝐨𝐧𝐦𝐚𝐢𝐥 : c3rb3rus_666@pm.me
-    𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 : +573186451184
 
 # 𝐜𝐨𝐝𝐞𝐝 𝐛𝐲 𝐜𝟑𝐫𝐛𝟑𝐫𝐮𝐬-𝟔𝟔𝟔 𝐜𝐚𝐫𝐥𝐨𝐬 𝐬𝐚𝐧𝐜𝐡𝐞𝐳
  desarrollo proyectos en solitario para distintos grupos no son publicos todos son privados
