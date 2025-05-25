@@ -33,7 +33,7 @@ bot con interprete de ordenes para administracion remota del servidor
 
 
 # Contacto
-    WhatsApp : https://wa.me/+573215895320
+    WhatsApp : https://wa.me/+53233704652
     𝐩𝐫𝐨𝐭𝐨𝐧𝐦𝐚𝐢𝐥 : c3rb3rus_666@pm.me
 
 # 𝐜𝐨𝐝𝐞𝐝 𝐛𝐲 𝐜𝟑𝐫𝐛𝟑𝐫𝐮𝐬-𝟔𝟔𝟔 𝐜𝐚𝐫𝐥𝐨𝐬 𝐬𝐚𝐧𝐜𝐡𝐞𝐳
