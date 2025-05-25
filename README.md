@@ -43,7 +43,7 @@ bot con interprete de ordenes para administracion remota del servidor
  ![c.JPG](https://github.com/C3rb3rus-666/UNKBOT/blob/main/c.JPG)
  
 #  𝐂𝐄𝐑𝐁𝐄𝐑𝐎
- ![c1.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c1.jpg)
+ ![c1.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c1.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c1.jpg)
  ![c2.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c2.jpg)
  ![c3.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c3.jpg)
  ![c4.jpg](https://github.com/C3rb3rus-666/CERBERO/blob/main/c4.jpg)
